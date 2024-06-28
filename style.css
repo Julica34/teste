@@ -116,6 +116,10 @@ a.cabecalho__botao {
     font-size: 30px;
 }
 
+.secao1__imagem {
+    width: 20%;
+}
+
 /* estilo seção 2*/
 .secao2__img__titulo {
     color: var(--preto-titulo);
