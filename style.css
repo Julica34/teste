@@ -76,6 +76,7 @@ a:active {
 .texto__cabecalho {
     text-align: center;
     margin-top: 0;
+    margin-left: 650px;
     margin-bottom: 300px;
     font-size: 30px;
     font-weight: 100;
