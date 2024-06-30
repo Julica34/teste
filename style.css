@@ -161,10 +161,6 @@ a.cabecalho__botao {
 }
 
 /* estilo seção 3*/
-.secao3__imagem {
-    background-image: url("endereço.jpg");
-}
-
 .secao3__texto {
     margin: 30% 0 30% 0;
 }
@@ -173,6 +169,10 @@ a.cabecalho__botao {
     width: 95%;
     padding: 1em;
     text-align: center;
+}
+
+.secao3__imagem {
+    background-image: url("endereço.jpg");
 }
 
 /* estilo seção 4*/
