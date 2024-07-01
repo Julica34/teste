@@ -337,6 +337,10 @@ a.cabecalho__botao {
         text-align: center;
     }
 
+    .secao3__imagem{
+        width: 50%;
+    }
+
     /* estilo seção 4*/
     .secao4 {
         display: flex;
