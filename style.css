@@ -273,6 +273,7 @@ a.cabecalho__botao {
     /* estilo cabeçalho */
     .logo__principal {
         width: 5%;
+        margin-left: 0;
     }
 
     .texto__cabecalho {
