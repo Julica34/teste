@@ -167,6 +167,12 @@ a.cabecalho__botao {
 .secao3__imagem img{
     width: 40%;
     margin-left: 20px;
+    flex-wrap: nowrap;
+    color: var(--preto-titulo);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 80%
 }
 
 .secao3__texto {
@@ -181,13 +187,7 @@ a.cabecalho__botao {
 }
 
 .secao3_container{
-    flex-wrap: nowrap;
-    color: var(--preto-titulo);
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    font-size: 80%
+    
     
     
     ;
