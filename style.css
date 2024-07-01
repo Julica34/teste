@@ -327,7 +327,6 @@ a.cabecalho__botao {
     /* estilo seção 3*/
     .secao3__texto {
         margin: 50% 0 50% 0;
-        display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
     }
