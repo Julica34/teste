@@ -117,6 +117,7 @@ a.cabecalho__botao {
 
 .secao1__imagem {
     width: 30%;
+    display: flex;
 }
 
 /* estilo seção 2*/
