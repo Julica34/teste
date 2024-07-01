@@ -321,6 +321,7 @@ a.cabecalho__botao {
 
     .secao2__imagens img {
         width: 100%;
+        justify-content: space-between;
     }
 
     /* estilo seção 3*/
