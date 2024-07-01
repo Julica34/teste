@@ -51,7 +51,6 @@ a:active {
 /*estilo dos containers genericos*/
 .container {
     margin-top: 50px;
-    display: flex;
 }
 
 /*estilos do cabeçalho*/
