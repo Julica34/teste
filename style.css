@@ -252,7 +252,7 @@ a.cabecalho__botao {
 .rodape__logo {
     max-width: 200px;
     max-height: 200px;
-    width: auto;
+    width: 30px;
     height: auto;
 }
 
