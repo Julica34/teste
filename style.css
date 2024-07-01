@@ -380,7 +380,6 @@ a.cabecalho__botao {
     .rodape__lista {
         flex-wrap: wrap;
         align-items: center;
-        flex-direction: column-reverse;
     }
 
     .rodape__lista li {
