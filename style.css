@@ -169,7 +169,7 @@ a.cabecalho__botao {
     color: var(--preto-titulo);
     display: flex;
     align-items: center;
-    font-size: 80%
+    font-size: 300%
 }
 
 .imagem3{
