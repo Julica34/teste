@@ -187,7 +187,10 @@ a.cabecalho__botao {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    font-size: 20px;
+    font-size: 8%
+    
+    
+    ;
 }
 /* estilo seção 4*/
 .secao4__titulo,
