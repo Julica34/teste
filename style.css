@@ -278,7 +278,7 @@ a.cabecalho__botao {
 
     .texto__cabecalho {
         text-align: center;
-        margin-top: 100px;
+        margin-top: 0;
         margin-bottom: 180px;
         font-size: 30px;
         font-weight: 400;
