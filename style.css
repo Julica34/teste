@@ -165,13 +165,17 @@ a.cabecalho__botao {
 
 /* estilo seção 3*/
 .secao3__imagem{
-    width: 40%;
     margin-left: 50px;
     color: var(--preto-titulo);
     display: flex;
     justify-content: space-between;
     align-items: center;
     font-size: 80%
+}
+
+.imagem3{
+    width: 40px;
+    margin-left: 50px;
 }
 
 .secao3_container{
