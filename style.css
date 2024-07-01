@@ -148,6 +148,7 @@ a.cabecalho__botao {
 .secao2__imagens img {
     width: 95%;
     margin-left: 50px;
+    display: flex;
 }
 
 .secao2__titulo {
